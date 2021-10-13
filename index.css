@@ -1,7 +1,8 @@
 h3{
     text-align: center;
     font-size: x-large;
-    background-color: blue;
+    background-color:  #3333ff
+    ;
 }
 *{
     background-color:lightblue;
@@ -15,4 +16,8 @@ h3{
     margin-left: 80px;
     margin-top: 80px;
     font-size: 20px;
+}
+/* body */
+.body{
+    /* background-color: darkblue; */
 }
