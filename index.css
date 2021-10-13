@@ -55,7 +55,7 @@ p a:hover{
     margin-top: 40px;
 }
 #footer-email::placeholder{
-    color: black
+    color: black;
 }
 .footer-email-form{
     width: 200px;
