@@ -1,7 +1,7 @@
 h3{
     text-align: center;
     font-size: x-large;
-    background-color:  #3333ff
+    background-color:  #3333ff;
     ;
 }
 *{
@@ -18,6 +18,10 @@ h3{
     font-size: 20px;
 }
 /* body */
-.body{
-    /* background-color: darkblue; */
+h2{
+    color: #3333ff;
+    text-align: center;
+}
+h6{
+    color: #8080ff;
 }
