@@ -33,3 +33,6 @@ p a:hover{
 .ahmed{
     width: 30%;
 }
+.biography{
+    display: flex;
+}
