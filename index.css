@@ -39,13 +39,45 @@ p a:hover{
 }
 /*                   Footer                    */
 .footer{
-    /* background-color:brown ; */
+   /* background-color: brown; */
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    width: 90%;
+   
 }
 .mission{
     width: 50%;
 }
 .list{
     margin-top: 40px;
+}   
+.address{
+    margin-top: 40px;
+}
+#footer-email::placeholder{
+    color: black
+}
+.footer-email-form{
+    width: 200px;
+}
+#footer-email-button{
+    width:100px;
+    height: 40px;
+    border-radius: 1rem;
+    background-color:lightblue;
+    outline: none;
+    border: none;
+}
+#footer-email{
+    width: 250px;
+    height: 40px;
+    border-radius: 1.5rem;
+    outline: none;
+    border: none;
+    padding:0.5rem;
+    font-size: 1rem;margin-bottom: 1rem;
+    background-color: white;
+}
+span{
+    font-size: x-large;
 }
