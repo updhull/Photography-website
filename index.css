@@ -6,7 +6,7 @@ h3{
 }
 *{
     background-color:lightblue;
-    height: ;
+     
 }
 .header{
     display: flex;
@@ -24,4 +24,8 @@ h2{
 }
 h6{
     color: #8080ff;
+    font-size: 20px;
+}
+p a:hover{
+    color: red;
 }
