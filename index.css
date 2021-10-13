@@ -3,3 +3,14 @@ h3{
     font-size: x-large;
     background-color: blue;
 }
+*{
+    /* background-color:yellow; */
+}
+.header{
+    display: flex;
+     
+}
+#header{
+    margin-left: 80px;
+    margin-top: 80px;
+}
