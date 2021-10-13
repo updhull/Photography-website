@@ -4,7 +4,7 @@ h3{
     background-color: blue;
 }
 *{
-    /* background-color:yellow; */
+    background-color:lightblue;
 }
 .header{
     display: flex;
@@ -13,4 +13,5 @@ h3{
 #header{
     margin-left: 80px;
     margin-top: 80px;
+    font-size: 20px;
 }
